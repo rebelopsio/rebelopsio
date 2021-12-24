@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Stephen but you can call me Steve!
+
+<img src="" alt="Lover of Star Wars and the Rebellion">
 
 <!--
 **rebelopsio/rebelopsio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
