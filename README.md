@@ -13,3 +13,6 @@ As a DevOps Engineer I work with bash, Ansible, AWS cloud resources like EC2, an
 ### Feel free to reach out!
 
 I'm always interested in learning and progressively getting better every day. I'm lucky to have a supportive family and professional team that affords me this opportunity. I think the best way to learn is through an exchange of knowledge.
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
