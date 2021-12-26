@@ -14,7 +14,9 @@ As a DevOps Engineer I work with bash, Ansible, AWS cloud resources like EC2, an
 
 I'm always interested in learning and progressively getting better every day. I'm lucky to have a supportive family and professional team that affords me this opportunity. I think the best way to learn is through an exchange of knowledge.
 
-[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebelopsio&show_icons=true&theme=darcula)](https://github.com/rebelopsio/github-readme-stats)
+[![Steve's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebelopsio&show_icons=true&theme=darcula)](https://github.com/rebelopsio/rebelopsio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebelopsio&show_icons=true&theme=darcula))](https://github.com/rebelopsio/rebelopsio)
+
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
