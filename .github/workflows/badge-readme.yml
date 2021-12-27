@@ -14,7 +14,7 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: rebelopsio/rebelopsio
           COMMIT_MESSAGE: "My commit message for badge update"
           CREDLY_USER: stephen-morgan.b43f1bc5
