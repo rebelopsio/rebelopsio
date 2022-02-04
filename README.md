@@ -1,4 +1,4 @@
-### Hello, I'm Steve Morgan and I'm a DevOps Engineer
+
 
 <img src="https://github.com/rebelopsio/rebelopsio/blob/main/static/img/banner.png?raw=true" alt="Lover of Star Wars and the Rebellion">
 
