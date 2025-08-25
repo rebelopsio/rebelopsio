@@ -4,3 +4,7 @@
 I'm Stephen (Steve).<br><br>
 Please feel free to head to <a href="https://stevemorgan.dev">stevemorgan.dev</a> for more info!
 </p>
+
+<a href="https://profile.codersrank.io/user/rebelopsio"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rebelopsio&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" width="500px"/></a>
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=rebelopsio&count_private=true&show_icons=true)
